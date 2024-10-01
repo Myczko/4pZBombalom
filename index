@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ekologiczny Świat</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Główna nawigacja -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Strona Główna</a></li>
+                <li><a href="ochrona.html">Ochrona Środowiska</a></li>
+                <li><a href="quiz.html">Quiz Ekologiczny</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="kontakt.html">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Sekcja główna -->
+    <section id="main-content">
+        <h1>Ekologiczny Świat</h1>
+        <p>Witaj na stronie poświęconej ochronie środowiska. Dowiedz się, co możesz zrobić, by żyć bardziej ekologicznie!</p>
+        
+        <div class="content">
+            <div class="box">
+                <h2>Dlaczego warto dbać o planetę?</h2>
+                <p>Ochrona środowiska to przyszłość naszej planety. Zmiany klimatyczne mają wpływ na każdego z nas. Poznaj fakty.</p>
+            </div>
+            <div class="box">
+                <h2>Co możesz zrobić?</h2>
+                <p>Dowiedz się, jak małe codzienne zmiany mogą pomóc naszej planecie.</p>
+            </div>
+            <div class="box">
+                <h2>Aktualności</h2>
+                <p>Śledź najnowsze wydarzenia i innowacje związane z ochroną środowiska.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Miejsce na obrazki -->
+    <section id="images">
+        <h2>Miejsca na obrazy</h2>
+        <div class="image-placeholder"></div>
+        <div class="image-placeholder"></div>
+        <div class="image-placeholder"></div>
+    </section>
+
+    <!-- Stopka -->
+    <footer>
+        <p>&copy; 2024 Ekologiczny Świat</p>
+    </footer>
+</body>
+</html>
